@@ -52,7 +52,7 @@ BasicGame.Game.prototype = {
 
         // Here we load the assets required for our preloader (in this case a 
         // background and a loading bar)
-        this.load.image('logo', 'asset/phaser20.png');
+        this.load.image('logo', 'asset/phaser21.png');
     },
 
     create: function () {
